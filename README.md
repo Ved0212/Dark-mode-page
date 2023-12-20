@@ -2,7 +2,7 @@
 
 Welcome to our innovative web experience, where we understand that every user is unique and so are their preferences. Embrace the power to choose with our seamlessly integrated Dark Mode to Light Mode feature, designed to cater to your personal taste and enhance your browsing comfort.
 
-###<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">[Deployment Link]
+###<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">[Deployment Link](https://ved0212.github.io/Dark-mode-page/)
 
 ## Table of Contents
 - [Features](#features)
